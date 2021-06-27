@@ -107,3 +107,4 @@ if __name__ == '__main__':
     test = InputListPairs()
     print(test)
     test.plot()
+    random()
